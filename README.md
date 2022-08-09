@@ -3,11 +3,13 @@
 ### **Contributors: Sam Espe, Yameena Khan, Maryam Osman, Nhan Tran (Group 7)**
 <br />
 <br />
+
 ## Topic Overview
 Minnesota is home to hundreds of thousands of families who speak dozens of distinct languages. Minnesota's Department of Education gathers data on the families of public school students every year, including what language students speak at home. This data is publicly available for the school years 2006-2007 to 2021-2022.
 We used this data to examine the proportions of families that speak language/languages other than English at home, the distribution of non-English-speaking families across the State of Minnesota, and how the most frequently spoken languages change in that time period.
 <br />
 <br />
+
 ## Research Questions and Motivations
 The members in our group all speak multiple languages. This led us to be curious about how many Minnesota families speak non-English languages, and how that has changed over time.
 We developed the following research questions:
@@ -17,11 +19,13 @@ We developed the following research questions:
 * How are the number of students who speak a given non-English language distributed geographically, and how does that change over time?
 <br />
 <br />
+
 ## Data Exploration and Clean-Up Process
 The data we downloaded from Minnesota's Department of Education's website was in excel format, which we converted into CSV form and read them in our Jupyter Notebook. The data was cleaned and standardized making sure we have uniform column headings, all the redundunt/repeat values werer removed. Tests were done to check and ensure we had all and only the unique languages in our dataset.
 At the end of the clean up process we achieved 350 unique languages. This indicates that across the State of Minnesota 349 unique languages other than English are spoken.
 <br />
 <br />
+
 ## Data Analysis Process
 To do the analysis we ran a few different tests and presentations on the data:
 * **Hypothesis Testing** <br />
@@ -36,6 +40,7 @@ To do the analysis we ran a few different tests and presentations on the data:
     We decided to use pie charts to compare the proportion of students speaking English at home with the proportion of students speaking languages other than english.
 <br />
 <br />
+
 ## Conclusions
 As per our analysis we made the following findings:
 * The number of students speaking unique languages over the period of time has been increasing this could be an indication of diversity being increased in the state of Minnesota
